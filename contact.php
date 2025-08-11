@@ -35,12 +35,11 @@
                     <div class="contact-info">
                         <h2 class="title text-center">Contact Info</h2>
                         <address>
-                            <p>E-Shopper Inc.</p>
-                            <p>935 W. Webster Ave New Streets Chicago, IL 60614, NY</p>
-                            <p>Newyork USA</p>
-                            <p>Mobile: +2346 17 38 93</p>
-                            <p>Fax: 1-714-252-0026</p>
-                            <p>Email: info@e-shopper.com</p>
+                            <p>Kandu Pinnawala</p>
+                            <p>892P+57C Elephant Bathing Road, To Elephant Bathing Position, Rambukkana 71100</p>
+                            <p>Rambukkana, Sri Lanka</p>
+                            <p>Mobile: +94 77 450 8787</p>
+                            <p>Email: info@kandupinnawala.com</p>
                         </address>
                         <div class="social-networks">
                             <h2 class="title text-center">Social Networking</h2>
